@@ -1,0 +1,17 @@
+.foot{
+    /* background-color: rgb(98, 93, 93); */
+    height: 50px;
+    width: 100%;
+    color: black;
+    font-size: 15px;
+    background:  #fff;
+    text-align: right;
+    font-weight: 600;
+    box-shadow:  27px 27px 87px #6d6868,
+    -27px -27px 87px #ffffff;
+}
+.foot span{
+    position: relative;
+    top: 10px;
+   left: -10px;
+}
